@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Avatar & Intro Section -->
-<img src="https://raw.githubusercontent.com/humayunchodhary/humayunchodhary/main/" width="140" height="140" alt="Muhammad Humayun Chodhary"/>
+<img src="https://raw.githubusercontent.com/Shahan786developer/Shahan786developer/main/profile_avatar.png" width="140" height="140" alt="Muhammad Humayun Chodhary"/>
 
 <br/><br/>
 
